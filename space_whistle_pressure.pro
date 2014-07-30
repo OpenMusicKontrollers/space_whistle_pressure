@@ -1,13 +1,11 @@
-update=Die 29 Jul 2014 17:45:37 CEST
+update=Mit 30 Jul 2014 13:44:30 CEST
 version=1
-last_client=pcbnew
+last_client=kicad
 [cvpcb]
 version=1
 NetIExt=net
 [cvpcb/libraries]
 EquName1=devcms
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=../kicad_libs
@@ -93,3 +91,5 @@ LibName19=/home/hp/omk/kicad_mods/SMT_TRIMPOT
 LibName20=/home/hp/omk/kicad_mods/1351
 LibName21=/home/hp/omk/kicad_mods/oshw-logo
 LibName22=/home/hp/omk/kicad_mods/omk_logo
+[general]
+version=1
